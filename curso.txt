@@ -1,0 +1,16 @@
+MDA
+
+https://guu84124.live.dynatrace.com/ui/diagnostictools/mda?gtf=p_-1284581952361125972_1707283620000V2&gf=all&mdaId=a19430b4-a3ed-4397-8990-782c701ddb49&metric=REQUEST_COUNT&dimension=%7BRequest:Name%7D&mergeServices=false&aggregation=COUNT&percentile=80&chart=COLUMN&servicefilter=0%1E0%113000000%144611686018427387%1037%1130%144611686018427387
+
+https://guu84124.live.dynatrace.com/ui/services/SERVICE-DAD9C23562B70097/mda?pid=-7128745483075673862_1707487980000V2&gtf=p_-7128745483075673862_1707487980000V2&mdaId=92eaa682-51de-4219-9bc4-86ece7ba3699&gf=all&metric=RESPONSE_TIME&dimension=%7BRequestAttribute:easyTravel%20Destination%7D-%7BRequestAttribute:ClientIP%7D&mergeServices=false&aggregation=AVERAGE&percentile=80&chart=LINE&servicefilter=0%1E10%11SERVICE_METHOD_GROUP-0DE9BFF47683C19F%14Dynamic%20web%20requests%1015%113eb76114-47e7-494e-812a-6be1196efc30%1015%117743aa5d-cb63-4bd6-b3e2-1f054d7c6d4d
+
+Inci
+
+
+https://guu84124.live.dynatrace.com/#uemapplications/uemappmetrics;gtf=p_-1284581952361125972_1707283620000V2;gf=all;uemapplicationId=APPLICATION-08EBD5603755FA87;pid=-1284581952361125972_1707283620000V2;visiblepart=services-details
+
+
+
+Redirect
+
+https://hsy14227.live.dynatrace.com/#uemapplications/uemuseractionoverview;uemuserActionId=APPLICATION_METHOD-9D359449E7131DA4;filtr3ftf=custom1707470003274to1707477203274;filtr3filterActDur=5000000x66000000;uemTf=custom1707434003274to1707477203274;uemAnTf=custom1707470003274to1707477203274;uemapplicationId=APPLICATION-C43AC1A6FA84A22C;uaname=loading%20of%20page%20%5C0net.ap.acceso%5C0acceso.aspx;uatype=Load;uadomain=crmcontrata.euskaltel.es;gtf=today;gf=all;uemSelDaSe=All
